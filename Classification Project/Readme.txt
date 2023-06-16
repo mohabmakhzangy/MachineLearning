@@ -27,6 +27,7 @@ Part 1 : Pre-processing the data
   Removing "First_Road_number" column as it had 3000+ different values
   Normalizing "Speed_limit" column to ensure that all variables are on the same scale
   Exporting the processed dataset to be used in Diagnostics and Classifiers
-
-
-
+  
+  
+  Part 2 & 3 :Diagnostics and Classifiers techniques:
+Comparing the performance of different classifier techniques is crucial to identify the most suitable approach for a given problem. The performance of classifiers can be evaluated using various metrics, with accuracy being one of the commonly used measures. Accuracy calculates the percentage of correctly classified instances out of the total number of instances.We will use diagonstics techniques to improve overall performance
